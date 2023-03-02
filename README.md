@@ -1,6 +1,6 @@
 # Spherical Map Converter
 ## Description
-A simple Python program that takes in an image and transforms it into something akin to an Equilateral Projection.  
+A simple Python (version 3.9.13) program that takes in an image and transforms it into something akin to an Equilateral Projection.  
 
 The underlying idea is to resize the image to a 2:1 ratio and then perform the distortions at the poles.
 
