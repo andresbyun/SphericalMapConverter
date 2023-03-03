@@ -1,9 +1,9 @@
 import sys
 import argparse
+import math
 
 # Main function
 def main(argv):
-    
     print(argv[1])
 
 if __name__ == "__main__":
